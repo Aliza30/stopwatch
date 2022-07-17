@@ -1,0 +1,9 @@
+
+A stopwatch is a timepiece designed to measure the amount of time that elapses between its activation and deactivation.
+
+This is a simple JS project of stop watch using vanilla JS. This project consist of three part HTML, CSS and JS.
+HTML part consist of basic content of a stop watch. 
+CSS part consist of the styling part of the stop watch.
+JS part holds the logical part of the atop watch  which do the calculation work and modefy the stopwatch as per the user requirement.
+
+ALIZA RAZI.
